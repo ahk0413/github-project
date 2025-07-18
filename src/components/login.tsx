@@ -1,4 +1,4 @@
-function login() {
+function Login() {
   return (
     <div>login</div>
   )
